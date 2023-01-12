@@ -20,7 +20,7 @@ body
   border-width:medium;
   border-radius: 20px;
   border-style: solid;
-  height: 1000px;
+  height: 1100px;
   width: 1101px;
   box-shadow: 5px 5px 15px grey;
   background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
@@ -87,7 +87,7 @@ body
   display: block;
   text-align: left;
   margin-top: -30px;
-  margin-left: 10px;
+  margin-left: 15px;
   width: 20%;
   height: 150%;
 }
@@ -112,9 +112,8 @@ body
   position: relative;
   display: inline-block;
   margin-top: -50px; 
+  margin-left: 0px;
   width: 100%;
-
-
 
 }
 
@@ -145,7 +144,7 @@ body
 
 .header{
     border: none;
-    margin-top: -12rem;
+    margin-top: -14rem;
     margin-left: 260px;
 }
 
@@ -164,6 +163,7 @@ body
     background-color: #101010;
 }
 
+
 .nav-menu {
   align-items:right;
   display: inline;
@@ -171,26 +171,27 @@ body
 }
 
 .nav-item {
-  display:inline-block;
+  display:inline;
   margin-left: 10px;
   font-size: 24px;
   text-align: right;
 }
 
+
 .nav-link
 {
   font-size: 24px;
-  display: inline-block;
-  margin-right: -30px;
+  margin-right: -20px;
 }
 
 .nav-social img
 {
-  width: 30px;
-  height: 25px;
-  margin-left: -60px;  
-  margin-right: -30px;
+  width: 40px;
+  height: 35px;
+  margin-left:0px;  
+  margin-right: -50px;
 }
+
 
 .nav-social img:hover
 
