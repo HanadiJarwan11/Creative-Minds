@@ -23,7 +23,7 @@ body
   height: 1100px;
   width: 1101px;
   box-shadow: 5px 5px 15px grey;
-  background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+  background-image:url(./images/short.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -283,7 +283,7 @@ body
   height: 1200px;
   width: 1000px;
   box-shadow: 5px 5px 15px grey;
-  background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+  background-image:url(./images/short.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -416,6 +416,7 @@ display: block;
       cursor: pointer;
       border: none;
       margin-right: -80px;
+      margin-top: 20px;
   }
 
   .hamburger.active .bar:nth-child(2) {

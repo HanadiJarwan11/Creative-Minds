@@ -24,7 +24,7 @@ body
   height: 1300px;
   width: 1101px;
   box-shadow: 5px 5px 15px grey;
-  background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+  background-image:url(./images/short.png);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -306,7 +306,7 @@ color: black;
     margin-left: -10px;
     margin-bottom: -10px;
     box-shadow: 5px 5px 15px grey;
-    background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+    background-image:url(./images/short.png);
     background-repeat: no-repeat;
   }
   .about2::after

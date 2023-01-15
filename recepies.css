@@ -24,7 +24,7 @@ body
   height: 2600px;
   width: 1101px;
   box-shadow: 5px 5px 15px grey;
-  background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+  background-image:url(./images/short.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -272,7 +272,7 @@ p1
     height: 3000px;
     width: 700px;
     box-shadow: 5px 5px 15px grey;
-    background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+    background-image:url(./images/short.png);
     background-repeat: no-repeat;
     background-size: cover;
   }

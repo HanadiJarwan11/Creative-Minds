@@ -69,7 +69,7 @@ body
   height: 1800px;
   width: 1101px;
   box-shadow: 5px 5px 15px grey;
-  background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+  background-image:url(./images/short.png);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -250,7 +250,7 @@ body
       margin-right: -10px;
       margin-left: -10px;
       box-shadow: 5px 5px 15px grey;
-      background-image:url(file:///D:/IT/IMAGES/hanadiii/Screenshot%202.png);
+      background-image:url(./images/short.png);
       background-repeat: no-repeat;
     
     }
